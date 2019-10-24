@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Chew Wen Hao</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: No. 50, Jln 28, Taman Bunya Raya, 83000 Kuala Lumpur
+        \n\nEducation:
+        \n\tSMK Jalan Mengibol, Johor
+        \n\tTAR UC, KL
+        \n\tStudying...
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngg
+    </string>
+</resources>
